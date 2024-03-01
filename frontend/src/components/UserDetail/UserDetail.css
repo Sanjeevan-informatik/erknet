@@ -1,0 +1,38 @@
+.user-detail-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-detail-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-detail-item {
+    margin-bottom: 10px;
+  }
+  
+  .user-detail-key {
+    font-weight: bold;
+  }
+  
+  .user-detail-value {
+    margin-left: 10px;
+  }
+
+  .toggle-button {
+    margin-left: 5px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .toggle-button:hover {
+    background-color: #0056b3;
+  }
