@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "my-react-app",
+    "slug": "my-react-app",
+    "version": "0.1.0",
+    "sdkVersion": "50.0.0",
+    "platforms": [],
+    "android": {
+      "package": "com.sanjeevanvive.myreactapp"
+    }
+  }
+}
