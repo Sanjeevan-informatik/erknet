@@ -48,5 +48,5 @@ npm install expo
 
 run react native application
 ```bash
-npx expo run
+npm run
 ```
